@@ -1,5 +1,4 @@
 //Requirement Library
-//slackApp M3W5Ut3Q39AaIwLquryEPMwV62A3znfOO
 //isdlPay  MF69OVvcBvkymVokVsE1aHeaMJ5Q-zlzu
 
 //Project properties
